@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
-<h3 align="center">A Full-Stack Developer from Vienna with a passion for crafting efficient and scalable applications. Currently diving deeper into Spring Boot & backend development.</h3>
+<h3 align="center">A Full-Stack Developer from Vienna with a passion for building cool stuff. Currently diving deeper into Spring Boot & backend development.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
